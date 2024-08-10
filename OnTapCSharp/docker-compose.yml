@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  ontapcsharp:
+    build:
+      context: .
+      dockerfile: OnTapCSharp/Dockerfile
+    container_name: ontapcsharp_container
+    ports:
+      - "5000:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sql_server;Database=Hshop2023;User Id=sa;Password=A&VeryComplex123Password;Trust Server Certificate=True
+    depends_on:
+      - sql
+
+  sql:
+    image: "mcr.microsoft.com/mssql/server:2022-latest"
+    container_name: sql_server
+    ports:
+      - "1433:1433" 
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=A&VeryComplex123Password

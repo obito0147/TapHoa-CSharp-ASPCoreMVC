@@ -1,0 +1,58 @@
+name: dockercompose15487526000473810618
+services:
+  ontapcsharp:
+    build:
+      context: D:\OnTapCSharp
+      dockerfile: OnTapCSharp/Dockerfile
+    container_name: ontapcsharp_container
+    depends_on:
+      sql:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ConnectionStrings__DefaultConnection: Server=sql_server;Database=Hshop2023;User Id=sa;Password=A&VeryComplex123Password;Trust Server Certificate=True
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "5000"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\ADMIN\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\ADMIN\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  sql:
+    container_name: sql_server
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: A&VeryComplex123Password
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose15487526000473810618_default

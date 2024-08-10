@@ -1,0 +1,7 @@
+﻿@model IEnumerable<OnTapCSharp.ViewModel.HangHoaVM>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_DanhSachHangHoa";
+}
+<h6>Có <b>@Model.Count()</b> sản phẩm</h6>
+@await Html.PartialAsync("ProductItem", Model);

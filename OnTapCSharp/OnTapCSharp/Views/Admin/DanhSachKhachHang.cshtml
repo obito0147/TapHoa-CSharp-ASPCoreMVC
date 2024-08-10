@@ -1,0 +1,46 @@
+﻿@using X.PagedList;
+@using X.Web.PagedList
+@model X.PagedList.IPagedList<OnTapCSharp.ViewModel.KhachHangVM>
+@{
+    Layout = "_LayoutAdmin";
+}
+<div>
+    <h1>Danh Sách khách hàng</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Mã khách hàng</th>
+                <th scope="col">Họ tên</th>
+                <th scope="col">Địa chỉ</th>
+                <th scope="col">Điện thoại</th>
+                <th scope="col">Email</th>
+                <th scope="col">Hiệu lực</th>
+                <th scope="col">Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.MaKh</th>
+                    <td>@item.HoTen</td>
+                    <td>@item.DiaChi</td>
+                    <td>@item.DienThoai</td>
+                    <td>@item.Email</td>
+                    <td>@item.HieuLuc</td>
+                    <td>
+                        <a asp-action="BlockKhachHang" asp-controller="Admin" asp-route-id="@item.MaKh">Khóa</a> 
+                    </td>
+                </tr>
+            } 
+        </tbody>
+    </table> 
+</div>
+<nav aria-label="Page navigation example">
+    <ul class="pagination d-flex">
+        @Html.PagedListPager(Model, p => Url.Action("DanhSachKhachHang", new { page = p }))
+    </ul>
+</nav>
+ 
+ 
+ 

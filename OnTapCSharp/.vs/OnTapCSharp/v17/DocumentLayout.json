@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\admin\\updatesanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\admin\\updatesanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\helpers\\randomkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\helpers\\randomkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\admin\\danhsachsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\admin\\danhsachsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\admin\\blockkhachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\admin\\blockkhachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\viewmodel\\khachhangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\viewmodel\\khachhangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\viewmodel\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\viewmodel\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\admin\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\admin\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|d:\\taphoa-csharp\\taphoa-csharp-aspcoremvc\\ontapcsharp\\ontapcsharp\\views\\cart\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD39476-F6B1-4637-AC97-D2BE463E6679}|OnTapCSharp\\OnTapCSharp.csproj|solutionrelative:ontapcsharp\\views\\cart\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T12:08:25.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\KhachHang\\DangKy.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\KhachHang\\DangKy.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAE8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T15:14:09.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "OnTapCSharp\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:13:22.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T11:54:59.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Controllers\\KhachHangController.cs",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "OnTapCSharp\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowHQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:15:29.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateSanPham.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Admin\\UpdateSanPham.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\Admin\\UpdateSanPham.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Admin\\UpdateSanPham.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\Admin\\UpdateSanPham.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T14:43:25.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhachHangVM.cs",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\ViewModel\\KhachHangVM.cs",
+              "RelativeDocumentMoniker": "OnTapCSharp\\ViewModel\\KhachHangVM.cs",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\ViewModel\\KhachHangVM.cs",
+              "RelativeToolTip": "OnTapCSharp\\ViewModel\\KhachHangVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:15:25.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RandomKey.cs",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Helpers\\RandomKey.cs",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Helpers\\RandomKey.cs",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Helpers\\RandomKey.cs",
+              "RelativeToolTip": "OnTapCSharp\\Helpers\\RandomKey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:40:55.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhSachSanPham.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Admin\\DanhSachSanPham.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\Admin\\DanhSachSanPham.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Admin\\DanhSachSanPham.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\Admin\\DanhSachSanPham.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:55:23.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlockKhachHang.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Admin\\BlockKhachHang.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\Admin\\BlockKhachHang.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Admin\\BlockKhachHang.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\Admin\\BlockKhachHang.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T09:21:09.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HangHoaVM.cs",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\ViewModel\\HangHoaVM.cs",
+              "RelativeDocumentMoniker": "OnTapCSharp\\ViewModel\\HangHoaVM.cs",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\ViewModel\\HangHoaVM.cs",
+              "RelativeToolTip": "OnTapCSharp\\ViewModel\\HangHoaVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:36:05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T13:04:19.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "OnTapCSharp\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:50:10.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T11:56:03.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:08:53.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Admin\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\Admin\\DangNhap.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Admin\\DangNhap.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\Admin\\DangNhap.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T09:18:23.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Controllers\\HangHoasController.cs",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "OnTapCSharp\\Controllers\\HangHoasController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwHUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:59:50.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\HangHoas\\Edit.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\HangHoas\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:00:36.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThanhToan.cshtml",
+              "DocumentMoniker": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Cart\\ThanhToan.cshtml",
+              "RelativeDocumentMoniker": "OnTapCSharp\\Views\\Cart\\ThanhToan.cshtml",
+              "ToolTip": "D:\\taphoa-csharp\\TapHoa-CSharp-ASPCoreMVC\\OnTapCSharp\\OnTapCSharp\\Views\\Cart\\ThanhToan.cshtml",
+              "RelativeToolTip": "OnTapCSharp\\Views\\Cart\\ThanhToan.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T09:15:10.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

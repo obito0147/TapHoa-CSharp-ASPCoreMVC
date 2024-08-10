@@ -1,0 +1,47 @@
+﻿@using X.PagedList;
+@using X.Web.PagedList
+@model X.PagedList.IPagedList<OnTapCSharp.ViewModel.HangHoaVM>
+@{
+    Layout = "_LayoutAdmin";
+}
+<div>
+    <h1>Danh Sách khách hàng</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Mã khách hàng</th>
+                <th scope="col">Họ tên</th>
+                <th scope="col">Địa chỉ</th>
+                <th scope="col">Điện thoại</th>
+                <th scope="col">Email</th>
+                <th scope="col">Hiệu lực</th>
+                <th scope="col">Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.MaHH</th>
+                    <td>@item.TenHH</td>
+                    <td>
+                        <img src="~/Hinh/HangHoa/@item.Hinh" style="height: 150p; width: 150px" class="img-fluid rounded" alt="@item.TenHH">
+                    </td>
+                    <td>@item.DonGia</td>
+                    <td>@item.MoTaNgan</td>
+                    <td>@item.TenLoai</td>
+                    <td>
+                        <a asp-action="UpdateSanPham" asp-controller="Admin" asp-route-id="@item.MaHH">Sửa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<nav aria-label="Page navigation example">
+    <ul class="pagination d-flex">
+        @Html.PagedListPager(Model, p => Url.Action("DanhSachSanPham", new { page = p }))
+    </ul>
+</nav>
+
+
